@@ -122,7 +122,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint
+      value: Waypoint -Go
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -273,7 +273,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (14)
+      value: Waypoint (14)- Vermont
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -462,7 +462,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (8)
+      value: Waypoint (8- Vermont
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -531,7 +531,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (35)
+      value: Waypoint (35) - RR4
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -600,7 +600,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (26)
+      value: Waypoint (26)- Atlantic
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -669,7 +669,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (3)
+      value: Waypoint (3)  - Baltic
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -738,7 +738,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (1)
+      value: Waypoint (1 - Medeteranian
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -807,7 +807,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (18)
+      value: Waypoint (18) -Tennessee
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -876,7 +876,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (34)
+      value: Waypoint (34) - Pensylvenia
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -945,7 +945,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (24)
+      value: Waypoint (24) -Illinois
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1113,7 +1113,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (2)
+      value: Waypoint (2 -CC1
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1182,7 +1182,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (12)
+      value: Waypoint (12)- Electric
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1251,7 +1251,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (36)
+      value: Waypoint (36)- Chace 3
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1399,7 +1399,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (17)
+      value: Waypoint (17) - CC2
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1588,7 +1588,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (22)
+      value: Waypoint (22) -Chance 3
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1657,7 +1657,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (9)
+      value: Waypoint (9) - Connecticut
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1726,7 +1726,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (5)
+      value: Waypoint (5 - RR1
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1795,7 +1795,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (15)
+      value: Waypoint (15) --RR2
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -1864,7 +1864,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (10)
+      value: Waypoint (10) -Visit
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2012,7 +2012,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (6)
+      value: Waypoint (6) - Oriental
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2081,7 +2081,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (28)
+      value: Waypoint (28) -  Water
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2150,7 +2150,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (39)
+      value: Waypoint (39) - Baordwalk
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2219,7 +2219,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (4)
+      value: Waypoint (4) - Income Tax
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2288,7 +2288,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (29)
+      value: Waypoint (29)- Marvin
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2357,7 +2357,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (21)
+      value: Waypoint (21)- Kentuky
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2426,7 +2426,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (37)
+      value: Waypoint (37) - Park Place
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2495,7 +2495,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (27)
+      value: Waypoint (27) -Virgina
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2564,7 +2564,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (33)
+      value: Waypoint (33)- CC3
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2633,7 +2633,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (11)
+      value: Waypoint (11) -St Charles
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2820,7 +2820,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (25)
+      value: Waypoint (25) - RR3
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2889,7 +2889,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (32)
+      value: Waypoint (32)- N.Carolina
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -2958,7 +2958,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (30)
+      value: Waypoint (30)- Go 2 Jail
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3236,7 +3236,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (16)
+      value: Waypoint (16) - St james
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3305,7 +3305,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (7)
+      value: Waypoint (7)- Chance 1
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3374,7 +3374,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (23)
+      value: Waypoint (23) -Indianna
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3443,7 +3443,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (13)
+      value: Waypoint (13) -States
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3512,7 +3512,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (31)
+      value: 'Waypoint (31) - Pacific '
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3581,7 +3581,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (19)
+      value: Waypoint (19) - New York
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3650,7 +3650,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (20)
+      value: Waypoint (20) -Free Parking
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
@@ -3719,7 +3719,7 @@ PrefabInstance:
     - target: {fileID: 2740009375989766271, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
       propertyPath: m_Name
-      value: Waypoint (38)
+      value: Waypoint (38)- Luxury Tax
       objectReference: {fileID: 0}
     - target: {fileID: 55530585174487653, guid: ca6907cc6c075a34e8c9e82b1a37c393,
         type: 3}
