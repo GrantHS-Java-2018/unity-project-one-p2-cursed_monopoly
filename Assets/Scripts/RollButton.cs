@@ -11,6 +11,7 @@ public class RollButton : MonoBehaviour
     private int button;
     public Button m_YourFirstButton;
     public GameObject dice1, dice2;
+    public GameObject Player1;
 
     // Start is called before the first frame update
     void Start()
@@ -25,7 +26,9 @@ public class RollButton : MonoBehaviour
         //Output this to console when Button1 or Button3 is clicked
         StartCoroutine(dice1.GetComponent<Dice>().Roll());
         StartCoroutine(dice2.GetComponent<Dice>().Roll());
-        Debug.Log("You have clicked the button!");
+        
+        //Debug.Log("You have clicked the button!");
+        
     }
     // Update is called once per frame
     void Update()
