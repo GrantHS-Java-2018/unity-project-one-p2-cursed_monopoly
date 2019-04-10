@@ -472,7 +472,6 @@ MonoBehaviour:
   - {fileID: 21300006, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
   - {fileID: 21300008, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
   - {fileID: 21300010, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
-  button: {fileID: 0}
   value: 0
 --- !u!1001 &108904106
 PrefabInstance:
@@ -1599,7 +1598,6 @@ MonoBehaviour:
   - {fileID: 21300006, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
   - {fileID: 21300008, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
   - {fileID: 21300010, guid: 02703c519eceea84da6e98e94871dddb, type: 3}
-  button: {fileID: 0}
   value: 0
 --- !u!1001 &1031742936
 PrefabInstance:
@@ -2849,6 +2847,8 @@ MonoBehaviour:
   rollButtonPress: 0
   pressRoll: 0
   m_YourFirstButton: {fileID: 1609539261}
+  dice1: {fileID: 1018770731}
+  dice2: {fileID: 108618999}
 --- !u!1001 &1668527171
 PrefabInstance:
   m_ObjectHideFlags: 0
