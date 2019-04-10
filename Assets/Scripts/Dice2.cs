@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Presets;
 using UnityEngine;
 using Random = System.Random;
 public class Dice2 : MonoBehaviour
@@ -14,6 +15,7 @@ public class Dice2 : MonoBehaviour
     }
     void Start()
     {
+        
         StartCoroutine(Roll2());
     }
 
@@ -25,11 +27,14 @@ public class Dice2 : MonoBehaviour
 
     IEnumerator Roll2()
     {
-        var randNum = new Random();
-        int num =randNum.Next(1, 7);
-        GetComponent<SpriteRenderer>().sprite = dieFace2[num - 1];
-        value = num;
-        yield return new WaitForSeconds(.15f);
-        StartCoroutine(Roll2());
+        for (int i = 0; i < 20; i++)
+        {
+            var randNum = new Random();
+            int num = randNum.Next(1, 7);
+            GetComponent<SpriteRenderer>().sprite = dieFace2[num - 1];
+            value = num;
+            yield return new WaitForSeconds(.15f);
+            //StartCoroutine(Roll2());
+        }
     }
 }
