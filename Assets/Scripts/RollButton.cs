@@ -13,6 +13,7 @@ public class RollButton : MonoBehaviour
     public GameObject dice1, dice2;
     public GameObject Player1;
 
+    public int totalDice;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,10 +27,12 @@ public class RollButton : MonoBehaviour
         //Output this to console when Button1 or Button3 is clicked
         StartCoroutine(dice1.GetComponent<Dice>().Roll());
         StartCoroutine(dice2.GetComponent<Dice>().Roll());
-        
+        totalDice = dice1.GetComponent<Dice>().value + dice2.GetComponent<Dice>().value;
         //Debug.Log("You have clicked the button!");
-        
+
     }
+
+
     // Update is called once per frame
     void Update()
     {
